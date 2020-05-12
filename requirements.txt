@@ -1,0 +1,6 @@
+Flask
+sklearn
+pandas
+numpy
+flask_apscheduler
+pickle5
